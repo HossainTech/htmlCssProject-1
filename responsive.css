@@ -1,0 +1,139 @@
+@media (max-width:1201px) {
+    .Motherdiv{
+        width: 1201px;
+    }
+    .container{
+        width: 95%!important;
+        margin: 0px auto;
+    }
+    .Header-topabr{
+        width: 100%;
+    }
+    .notice-text {
+        width: 80%;
+        margin-top: 7px;
+        float: right;
+        display: inline-block;
+    }
+    .notice-text p {
+        font-size: 14px;
+    }
+    .category-box {
+        display: inline-block;
+        width: 30.4%;
+        box-sizing: border-box;
+        margin: 0px auto;
+        border: 1px solid #00000017;
+        border-radius: 6px;
+        padding: 15px;
+        background: white;
+        margin-right: 4%;
+        margin-bottom: 3.3%;
+        transition: .4s;
+    }
+    .admission-content {
+        width: 50%;
+        float: right;
+        box-sizing: border-box;
+        padding: 50px 0px 0px 40px;
+    }
+    .admission-content p {
+        font-size: 14px;
+        font-family: 'Rubik';
+        margin-bottom: 20px;
+        text-align: justify;
+        color: #97979D;
+    }
+}
+@media (max-width:1025px){
+    .Motherdiv{
+        width: 1025px;
+    }
+    .main-logo {
+        float: left;
+        margin-right: 80px;
+        padding: 10px 0px;
+    }
+    .banner-text h1 {
+        font-size: 45px;
+        margin-bottom: 15px;
+        color: #111111;
+    }
+    .notice-board {
+        float: right;
+        width: 40%;
+    }
+    .aboutUs{
+        padding: 40px;
+    }
+    .aboutUs h1 {
+        text-align: justify;
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+    .category-box {
+        display: inline-block;
+        width: 31.7%;
+        box-sizing: border-box;
+        margin: 0px auto;
+        border: 1px solid #00000017;
+        border-radius: 6px;
+        padding: 9px;
+        background: white;
+        margin-right: 2%;
+        margin-bottom: 3.3%;
+        transition: .4s;
+    }
+    .c-box-text strong{
+        font-size: 18px;
+    }
+    .course-box{
+        width: 31%;
+        padding: 22px;
+        margin-right: 2.7%;
+    }
+    
+    .c-box-info h1{
+    font-size: 18px;
+    }
+    .admission-content{
+        padding: 36px 0px 0px 20px;
+    }
+    .admission-content p{
+        width: 90%;
+    }
+    .blog-text strong {
+        font-family: 'Nunito';
+        display: block;
+        font-size: 15px;
+        margin-bottom: 10px;
+        transition: .4s ease-in-out;
+    }
+    .blog-icons span a{
+        font-size: 15px;
+    }
+    .blog-icons{
+        margin-bottom: 0px;
+    }
+    .blog-text span a{
+        font-size: 12px;
+    }
+    .blog-text span i{
+        font-size: 12px;
+    }
+    .news-content h1{
+        font-size: 20px;
+    }
+    .newsletter-email{
+        width: 70%;
+    }
+    .f-section-address ul li p{
+        font-size: 13px;
+    }
+    .f-section-address ul li a{
+        font-size: 13px;
+    }
+
+    
+}
+ 
